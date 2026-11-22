@@ -1,0 +1,23 @@
+{
+  "input_hw": [
+    16384,
+    107
+  ],
+  "channels": 8,
+  "groups": 4,
+  "stride": [
+    2,
+    2
+  ],
+  "dilation": [
+    3,
+    2
+  ],
+  "kernel_hw": [
+    7,
+    5
+  ],
+  "max_unsealed_rows": 31,
+  "peak_scratch_bytes": 524288,
+  "seed": 1820
+}
